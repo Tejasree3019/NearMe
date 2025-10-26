@@ -222,7 +222,7 @@ park.html
 <!DOCTYPE html>
 <html>
 <head>
-    <title>NEW LIFE EDEN CHURCH</title>
+    <title>LAKE GREEN PARK</title>
     <style>
         body {
             background-color: rgb(164, 62, 161);
@@ -240,20 +240,20 @@ park.html
 </head>
 <body>
     <h2>AVADI</h2>
-    <h2> NEW LIFE EDEN CHURCH </h2><br>
+    <h2> LAKE GREEN PARK </h2><br>
 
     <p>
-        The church is situated at No.6, M.G.R. Street, West Gandhi Nagar, Avadi, Chennai, Tamil Nadu 600054.
+        Lush greenery, scenic trails, and a lake are the primary draws for visitors seeking relaxation.
     </p>
     <p>
-        New Life Eden Church is active in praise and worship, with online content shared on its Facebook page and YouTube channel.
+        The park features a walking trail, playgrounds for children, a children's play area, and a boat club offering activities like pedal boating and kayaking.
         
     </p>
     <p>
-        Like other churches, it serves as a center for spiritual guidance, support, and fellowship for its congregation.
+        It is equipped with wheelchair-accessible entrances, exits, and parking, and has resting spots along the walking trail.
     </p>
     <p>
-        Pastor K. Babu is a prominent figure at the church, with his messages and services being shared on the church's platforms.
+        The park has bird islands and is involved in eco-friendly initiatives, though the lake's original size has been reduced and some visitors have reported issues with water cleanliness. 
     </p>
 </body>
 </html>
@@ -263,15 +263,16 @@ park.html
 
 ![alt text](map.png)
 
-![alt text](<Screenshot 2025-10-26 131135.png>)
+![alt text](1.png.png)
 
-![alt text](<Screenshot 2025-10-26 131246.png>)
+![alt text](2.png.png)
 
-![alt text](<Screenshot 2025-10-26 131338.png>)
+![alt text](3.png.png)
 
-![alt text](<Screenshot 2025-10-26 131357.png>)
+![alt text](4.png.png)
 
-![alt text](<Screenshot 2025-10-26 131417.png>)
+![alt text](5.png.png)
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
