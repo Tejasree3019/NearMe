@@ -261,7 +261,8 @@ park.html
 
 ## OUTPUT
 
-![alt text](map.png)
+![alt text](map.html.png)
+
 
 ![alt text](1.png.png)
 
