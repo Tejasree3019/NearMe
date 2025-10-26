@@ -263,16 +263,15 @@ park.html
 
 ![alt text](map.png)
 
-![alt text](1.png.png)
+![alt text](<Screenshot 2025-10-26 131135.png>)
 
-![alt text](2.png.png)
+![alt text](<Screenshot 2025-10-26 131246.png>)
 
-![alt text](3.png.png)
+![alt text](<Screenshot 2025-10-26 131338.png>)
 
-![alt text](4.png.png)
+![alt text](<Screenshot 2025-10-26 131357.png>)
 
-![alt text](5.png.png)
-
+![alt text](<Screenshot 2025-10-26 131417.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
